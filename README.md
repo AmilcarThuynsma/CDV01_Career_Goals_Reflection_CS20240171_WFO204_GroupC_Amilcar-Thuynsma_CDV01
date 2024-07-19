@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
+- **Name:** Amilcar Cabral Thuynsma
 - **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Current Role/Position:** student
+- **Field of Interest:** Software Development 
 
 ### Part 1: Self-Assessment Reflection
 
